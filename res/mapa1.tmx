@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="100" tilewidth="16" tileheight="16" nextobjectid="93">
+ <tileset firstgid="1" name="tiles16" tilewidth="16" tileheight="16" spacing="1" tilecount="1767" columns="57">
+  <image source="tiles16.png" width="968" height="526"/>
+ </tileset>
+ <layer name="Terreno base" width="50" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAIA7A5w/MUIgLONmmTVFVVVfXhqKqqqqqqqqqqqqqqqqqqeroS/qaB
+  </data>
+ </layer>
+ <layer name="Terreno sobre terreno" width="50" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztmr2O1DAQgL3e7h6AF6K5RTpECxQH1Z6Al2CR6LaBKwAJJFp4CK4HCqDkp+cR6LCVtc4MM45/Zmwnl08aJVqtHH87nsTOWqk8jg7REx+8iKWlx84733jnD1ZKPTLxcBXfVo8eF17E0tLjsXd+XNhWLx4b8ltx9FbnR0t0FblwjquWY1TK47tW6oeJm2ulfum0z0qvXQrm8VP/3+exz0qvDTkz7b418Tqyfb+tk/XwG9s+3lqnfcbtYft/pv893wacOMbVu8ycjHlg51vCiWOMvs90Gbv2Gz0ExdbzmcP9yuZnDh7cbbWC67ncmsWjL+biYbmuh5g6i0c7/iBzOsrjomD+14Ip5sNnf+i777FP8NnoIVpT6rHTQ7TE9pfyiHVpnQ/YV1gfsS4t84H1EavzGJexfLg2/HZS8pea69z71Vg+MI+U/KXmOtcjJx+ScObjhr4Mjj7lBAdP9GVM2YMrHzn0mI8cpj6/ciwecvj37Nj7dksPrJ/+Z9An5BXycM+6UOT2MxSh71KEPNyzLhSpHlKEPPznARUhajlYQh7+84AKqf7UDozfOi6uggdGzXFq4fJIuV9JwOnRkqvsUfoeqhekPU40fuTG1bGUx1M99N0/coDNBaAHJ9ChNB+u/9hcQNKDOx+2/1QuLFPKB5ULi2Q+sGMOzqFFPrjwHVrkgwPogK0jpT1ur5S6A+Juwt5v6GCPcB1J/R9DtYcdx3hm+vwcxHmChxtD8EjNY8fWp/A3oeqN2yMV54HNx6jfJGZdyuXRem03F4+Pps+fQHwu8MAIrfd6e6cIr4HVecr7w5hrSBB7jZK5eqt8SF8jltyxK7VerZkPyfc3Eve5uXo4anicrpW6Z+K+4B4yyXc5zuOF6f9LE68mthfO4Ty+mP5/NfEt0yP1/xFuuGrQzjth1ATe23Pfb2P5qLnfjKvOsXzU3G8WqvMpvSsO1XlND2rtvQFHilB9cHtcIz4Prb13hxobG5/Uc7lmLty9jTrG1BhV59wetda1sM5TPGK+W8vDr3OJ2siZV5bS03otltL1PdUmpIaHRXreXmNc7YnnOSe16qN03m7J3es1JRaPvgh5pOxBac3iwc/YntsQPdTH2HO+dI/tlOjd4y/kJ7ov
+  </data>
+ </layer>
+ <layer name="Objetos" width="50" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2EEKwkAMQNGhWtx6G/UWCm6FogtdqngXwbN4BA/iMZyhDnThFKkjmYT/ILR0EZI2XWScy29bOber2vtblT9/43Ne39H8IT8AABpdaukK8niOpCvIYypdAIp0NzLfv5j5dzAXjGDf2SGG5Fj4OPo4CUYUexmS41xQHwcjfVj4Ht3/Y2gfAICyPer+0GLia92M2+un0CJVf+xNi1Qf2r5H30xp6gMAAAAAAOhm6QzPwlmLlTM8zr4AAAAAORZ2vMDKTmFhxwtSe154romVuYK8pZ+Z9ZexYr4AAAAAAIAiL1g7gxs=
+  </data>
+ </layer>
+ <layer name="Techos y ventanas" width="50" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2EFqwlAQANAUzLZbD1Hoyt6jK4/gBdp7eCe76C3Sg7SL5oNS+WaSL4rNl/dgUL6TzLgJmWkaAID5ePzvBgAKfPWxXZyeRbkl5+vFeH63/8zrHl/fDf80eM+ozlBPuaiHEsuH8XopxnKm6kc9n5szde3rRI95TmnNS3q79n2u1QvAvdj1z8XPID4qemZ+p17b4fip6H+s2r/vz/s4eGnzbG7hqfCsFm/9u9x7wTsfAAAAMB92ePOyGtnT1bbDy/dc9l4AAHAb0ZxX04yXRHNeTTNeEs15tc14x9J8t2nqnvPugVkVAAAAAGK/t3wthg==
+  </data>
+ </layer>
+ <objectgroup name="BaldosaMadera">
+  <object id="51" x="457.86" y="376.827" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="BaldosaMetal">
+  <object id="52" x="633.134" y="375.447" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="CajaMadera">
+  <object id="34" x="462.061" y="432.012" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="CajaMetal">
+  <object id="35" x="636.283" y="428.52" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="Palanca">
+  <object id="65" x="571.985" y="221.991" width="16.0737" height="11.3288"/>
+ </objectgroup>
+ <objectgroup name="Puerta">
+  <object id="62" x="543.434" y="216.172" width="64" height="80"/>
+ </objectgroup>
+ <objectgroup name="Meta">
+  <object id="41" x="379.401" y="176.236" width="19" height="32"/>
+ </objectgroup>
+ <objectgroup name="Monedas">
+  <object id="12" x="418.354" y="1142.45" width="40" height="40"/>
+  <object id="15" x="600.561" y="852.524" width="40" height="40"/>
+  <object id="16" x="54.2407" y="963.303" width="40" height="40"/>
+  <object id="87" x="35.6766" y="360.053" width="40" height="40"/>
+  <object id="88" x="275.328" y="115.56" width="40" height="40"/>
+ </objectgroup>
+ <objectgroup name="Inmunidades">
+  <object id="17" x="489.82" y="652.582" width="26" height="36"/>
+  <object id="19" x="592.877" y="1244.85" width="26" height="36"/>
+ </objectgroup>
+ <objectgroup name="Corazones">
+  <object id="24" x="84.2162" y="780.558" width="40" height="33"/>
+  <object id="85" x="280.169" y="44.018" width="40" height="33"/>
+  <object id="86" x="669.906" y="595.943" width="40" height="33"/>
+ </objectgroup>
+ <objectgroup name="Arqueros">
+  <object id="89" x="117.671" y="394.894" width="40" height="44"/>
+  <object id="90" x="729.9" y="566.353" width="40" height="44"/>
+  <object id="91" x="183.43" y="733.884" width="40" height="44"/>
+  <object id="92" x="725.911" y="1238.47" width="40" height="44"/>
+ </objectgroup>
+ <objectgroup name="Reyes">
+  <object id="40" x="57.5385" y="165.077" width="40" height="44"/>
+  <object id="79" x="55.0424" y="1476.43" width="40" height="44"/>
+  <object id="80" x="275.328" y="592.863" width="40" height="44"/>
+  <object id="84" x="657.802" y="28.8351" width="40" height="44"/>
+ </objectgroup>
+ <objectgroup name="Caballero">
+  <object id="63" x="603.647" y="1496.95" width="40" height="44"/>
+ </objectgroup>
+ <objectgroup name="Limites">
+  <object id="1" x="432" y="1298.67">
+   <polyline points="0,0 0.666667,44 -160.667,46 -159.333,16 -143.333,-3.33333 0,-1.33333"/>
+  </object>
+  <object id="3" x="416" y="1248">
+   <polyline points="0,0 -1.33333,15.3333 -194.667,14.6667 -194.667,-1.33333 -2,-1.33333"/>
+  </object>
+  <object id="4" x="274" y="1214.67">
+   <polyline points="0,0 112.667,2 110,-47.3333 110.667,-80.6667 94.6667,-96 12,-94 -4,-80 -3.33333,-0.666667"/>
+  </object>
+  <object id="5" x="112" y="1216">
+   <polyline points="0,0 0.666667,30 34,29.3333 32,63.3333 -81.3333,66 -80,-2 1.33333,-0.666667"/>
+  </object>
+  <object id="6" x="128.667" y="1007.33">
+   <polyline points="0,0 77.3333,0 79.3333,-113.333 96.6667,-109.333 94,-146 77.3333,-146 79.3333,-112.667 66,-114.667 59.3333,-128 46.6667,-125.333 48,-80.6667 30.6667,-79.3333 -16.6667,-27.3333 -13.3333,1.33333 -0.666667,-2"/>
+  </object>
+  <object id="7" x="417.333" y="1021.33">
+   <polyline points="0,0 112.667,1.33333 109.333,-27.3333 90,-46 16.6667,-44.6667 -1.33333,-24.6667 -0.666667,-4.66667"/>
+  </object>
+  <object id="8" x="430" y="912">
+   <polyline points="0,0 130.667,-0.666667 130.667,-35.3333 131.333,-65.3333 114.667,-82.6667 15.3333,-81.3333 2,-68 -0.666667,0.666667"/>
+  </object>
+  <object id="9" x="654.667" y="831.333">
+   <polyline points="0,0 0,99.3333 80,95.3333 81.3333,0 0.666667,-0.666667"/>
+  </object>
+  <object id="10" x="638" y="657.333">
+   <polyline points="0,0 3.33333,63.3333 146,61.3333 145.333,-2 1.33333,-0.666667"/>
+  </object>
+  <object id="11" x="655.333" y="960.667">
+   <polyline points="0,0 0.666667,93.3333 96,94 95.3333,-0.666667 0,-0.666667"/>
+  </object>
+  <object id="36" x="32.8987" y="547.094">
+   <polyline points="0,0 -1.21847,58.4867 47.5204,58.4867 47.5204,-3.65542 1.21847,-2.43694"/>
+  </object>
+  <object id="37" x="160.838" y="497.137">
+   <polyline points="0,0 -1.21847,29.2433 191.3,30.4618 190.082,-1.21847 162.057,-1.21847 159.62,-49.9574 147.435,-65.7975 46.3019,-67.016 31.6803,-54.8312 31.6803,-3.65542 0,-2.43694"/>
+  </object>
+  <object id="42" x="575.226" y="144.604">
+   <polyline points="0,0 1.06326,60.6061 222.222,61.6693 224.349,2.12653 1.06326,0"/>
+  </object>
+  <object id="44" x="720.893" y="4.25306">
+   <polyline points="0,0 -2.12653,75.4918 13.8224,75.4918 15.949,12.7592 45.7204,12.7592 45.7204,75.4918 64.8591,76.555 62.7326,-4.25306 1.06326,-4.25306"/>
+  </object>
+  <object id="45" x="341.308" y="14.8857">
+   <polyline points="0,0 59.5428,1.06326 59.5428,-13.8224 1.06326,-14.8857 -1.06326,-1.06326"/>
+  </object>
+  <object id="48" x="16.6407" y="16.6407">
+   <polyline points="0,0 0.536797,48.3118 47.2382,47.775 46.7014,0 0,-0.536797"/>
+  </object>
+  <object id="53" x="754.19" y="416.667">
+   <polyline points="0,0 -1.16387,124.534 26.7691,125.698 27.933,0 0,-1.16387"/>
+  </object>
+  <object id="55" x="17.4581" y="209.497">
+   <polyline points="0,0 15.1304,0 15.1304,-53.5382 -1.16387,-53.5382 -1.16387,1.16387"/>
+  </object>
+  <object id="56" x="-0.908183" y="257.016">
+   <polyline points="0,0 509.908,0 509.908,79.9201 2.70748,79.0119"/>
+  </object>
+  <object id="57" x="801.017" y="336.936">
+   <polyline points="0,0 -221.642,-0.908183 -221.642,-79.9201 -0.897337,-79.9201"/>
+  </object>
+  <object id="76" x="888.889" y="352.576">
+   <polyline points="0,0"/>
+  </object>
+  <object id="77" x="175.901" y="1314.08">
+   <polyline points="0,0 0,15.0503 12.2284,15.0503 13.169,-0.940645 -0.940645,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="BordesMapa">
+  <object id="50" x="800.71" y="1601.42">
+   <polyline points="0,0 -1.04395,-1599.33 -800.71,-1600.38 -801.754,-1.04395 0,0"/>
+  </object>
+ </objectgroup>
+</map>

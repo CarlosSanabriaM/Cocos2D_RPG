@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>rey_abajo_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{35,84},{34,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{4,2},{34,41}}</string>
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+
+			<key>rey_abajo_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{70,84},{34,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{4,2},{34,41}}</string>
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+
+			<key>rey_arriba_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{37,0},{34,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{2,2},{34,41}}</string>
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+
+			<key>rey_arriba_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{36,42},{34,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{2,2},{34,41}}</string>
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+
+			<key>rey_derecha_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{36,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,2},{36,41}}</string>
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+
+			<key>rey_derecha_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,84},{34,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{2,2},{34,41}}</string>
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+
+			<key>rey_izquierda_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,42},{35,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{4,2},{35,41}}</string>
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+
+			<key>rey_izquierda_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,42},{32,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{4,2},{32,41}}</string>
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{128,128}</string>
+			<key>textureFileName</key>
+			<string>rey.png</string>
+			</dict>
+		</dict>
+</plist>

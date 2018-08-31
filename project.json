@@ -1,0 +1,33 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 1,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d","chipmunk"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/GameScene.js",
+        "src/ControlesLayer.js",
+        "src/Utilidades.js",
+        "src/Caballero.js",
+        "src/Arquero.js",
+        "src/Rey.js",
+        "src/Flecha.js",
+        "src/Piedra.js",
+        "src/Moneda.js",
+        "src/Corazon.js",
+        "src/Inmunidad.js",
+        "src/Meta.js",
+        "src/Caja.js",
+        "src/Baldosa.js",
+        "src/Puerta.js",
+        "src/Palanca.js"
+    ]
+}
